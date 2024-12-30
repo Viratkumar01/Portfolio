@@ -1,0 +1,103 @@
+{
+    "personal_information": {
+      "name": "Virat Kumar",
+      "phone_number": "+91-7547888502",
+      "roll_no": "2106201",
+      "email": "018viratkumar@gmail.com",
+      "github_profile": "GitHub Link",
+      "linkedin_profile": "LinkedIn Link"
+    },
+    "education": [
+      {
+        "institution": "National Institute of Technology, Patna",
+        "degree": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+        "year_of_graduation": 2025,
+        "cgpa": 7.86
+      },
+      {
+        "institution": "DAV Public School, Patna",
+        "degree": "Intermediate",
+        "year_of_completion": 2020,
+        "board": "Central Board of Secondary Education, Delhi",
+        "percentage": 88.2
+      },
+      {
+        "institution": "Bijendra Public School, Purnia",
+        "degree": "Matriculation",
+        "year_of_completion": 2018,
+        "board": "Central Board of Secondary Education, Delhi",
+        "percentage": 90.2
+      }
+    ],
+    "projects": [
+      {
+        "title": "Design of Network Intrusion Detection System for Smart Cities",
+        "duration": "Aug 2024 – Dec 2024",
+        "description": "Designed a Network Intrusion Detection System (NIDS) for smart cities, addressing unique challenges in IoT networks.",
+        "dataset": "UNSW-NB15 dataset with over 175,000 records",
+        "accuracy": "94.51%",
+        "technologies_used": ["Decision Tree", "Random Forest", "Multi-Layer Perceptron"]
+      },
+      {
+        "title": "Malware Detection using Machine Learning Algorithms",
+        "duration": "Feb 2024 – May 2024",
+        "description": "Implemented a machine learning approach for malware detection using features from PE headers.",
+        "technologies_used": ["Python", "scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib"],
+        "accuracy": "99.5% using Random Forest"
+      },
+      {
+        "title": "SUDOKU GAME",
+        "duration": "May 2023",
+        "description": "Engineered a logic-driven game ensuring each digit from 1 to 9 appears precisely once in rows, columns, and boxes.",
+        "technologies_used": ["HTML", "CSS", "JavaScript", "Visual Studio Code"]
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "SANKALP",
+        "position": "Tutor & Mentor",
+        "duration": "May 2022 - present",
+        "description": "Provided free and quality education to needy students through a non-profit organization."
+      }
+    ],
+    "technical_skills": {
+      "languages": ["C/C++", "Python"],
+      "developer_tools": ["Visual Studio Code", "Android Studio", "GitHub", "Arduino"],
+      "app_web_development": ["Flutter", "HTML", "CSS", "JavaScript"],
+      "cloud_databases": ["Firebase", "MySQL"],
+      "coursework": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Operating System",
+        "Computer Network",
+        "Database Management System"
+      ]
+    },
+    "positions_of_responsibility": [
+      {
+        "role": "Technical Member",
+        "organization": "ROBOTICS CLUB, NIT PATNA",
+        "duration": "Feb 2023 - present"
+      },
+      {
+        "role": "GDSC Flutter Team Member",
+        "organization": "GOOGLE DEVELOPER STUDENT CLUBS, NITP",
+        "duration": "Sep 2023 - present"
+      }
+    ],
+    "achievements": [
+      {
+        "description": "Successfully Completed Minor Degree Course in Robotics",
+        "institution": "Department of Mechanical Engineering, NIT Patna",
+        "date": "Nov 2024"
+      },
+      {
+        "description": "Successfully solved 200+ coding questions in Codechef, GFG, Leetcode."
+      },
+      {
+        "description": "Secured multiple medals, awards, and T-shirts in district-level chess tournaments and chess competitions organized by CBSE and NIT PATNA."
+      }
+    ]
+  }
